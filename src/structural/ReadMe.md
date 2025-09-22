@@ -1,0 +1,1 @@
+The main focus of structural pattern is to define how classes and objects are composed to form larger structures.
